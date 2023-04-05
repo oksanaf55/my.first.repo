@@ -1,0 +1,6 @@
+dict = {"Diana":18, "Jūlija":26, "Margarita":12}
+for key in dict:
+  print(dict[key])
+  if vecums >=18
+  print(f"key: {vecums}" ir 18 gadi)
+  
